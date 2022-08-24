@@ -1,0 +1,8 @@
+**.env*
+secret*
+!bin
+*.code-workspace
+NOTES.txt
+work
+.k3s
+hack/*.yaml

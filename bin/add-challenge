@@ -1,0 +1,3 @@
+#!/bin/bash
+
+instruqt challenge create --title "$1"

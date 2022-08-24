@@ -1,0 +1,2 @@
+#!/bin/bash
+instruqt track logs --since 5m

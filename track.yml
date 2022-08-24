@@ -1,0 +1,26 @@
+slug: dag-base
+id: uxw22yk2zrhu
+type: track
+title: Drone,Argo and Gitea(DAG) Stack
+teaser: How to get started with GitOps with Drone,Argo and Gitea
+description: |-
+  **TODO**: Description will be updated, its just a placeholder
+  A demo to demonstrate on how to setup [Drone](https://drone.io), [Argo CD](https://argo-cd.readthedocs.io/) and [Gitea](https://gitea.io/) with [kind](https://kind.sigs.k8s.io/) as your local Kubernetes Cluster.
+
+  This demo also shows how to use the Argo CD [declarative setup](https://argo-cd.readthedocs.io/en/stable/operator-manual/declarative-setup/) to setup [Drone](https://drone.io) with Drone Kubernetes runner.
+
+  The stack also deploys [Argo CD Image Updater](https://argocd-image-updater.readthedocs.io/en/stable) to enable updating the application images via GitOps.
+icon: https://cdn.instruqt.com/assets/templates/kubernetes.png
+tags:
+- ci
+- drone
+- argocd
+- gitops
+owner: harness
+developers:
+- sean@instruqt.com
+- kamesh.sampath@harness.io
+private: true
+published: false
+skipping_enabled: true
+checksum: "4264888931492229444"

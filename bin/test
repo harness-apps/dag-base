@@ -1,0 +1,5 @@
+#!/bin/bash
+set -euxo pipefail
+
+instruqt track push
+instruqt track test
